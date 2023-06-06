@@ -1,0 +1,15 @@
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\bin\Debug\net6.0\Bagrut2023HaChana.exe
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\bin\Debug\net6.0\Bagrut2023HaChana.deps.json
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\bin\Debug\net6.0\Bagrut2023HaChana.runtimeconfig.json
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\bin\Debug\net6.0\Bagrut2023HaChana.dll
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\bin\Debug\net6.0\ref\Bagrut2023HaChana.dll
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\bin\Debug\net6.0\Bagrut2023HaChana.pdb
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\obj\Debug\net6.0\Bagrut2023HaChana.csproj.AssemblyReference.cache
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\obj\Debug\net6.0\Bagrut2023HaChana.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\obj\Debug\net6.0\Bagrut2023HaChana.AssemblyInfoInputs.cache
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\obj\Debug\net6.0\Bagrut2023HaChana.AssemblyInfo.cs
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\obj\Debug\net6.0\Bagrut2023HaChana.csproj.CoreCompileInputs.cache
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\obj\Debug\net6.0\Bagrut2023HaChana.dll
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\obj\Debug\net6.0\ref\Bagrut2023HaChana.dll
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\obj\Debug\net6.0\Bagrut2023HaChana.pdb
+D:\SuperEasy\Bagrut2023HaChana\Bagrut2023HaChana\obj\Debug\net6.0\Bagrut2023HaChana.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1933fc4b-6c5a-46ba-8a83-0fba0b7e9d6f": {
+      "ProjectGuid": "1933fc4b-6c5a-46ba-8a83-0fba0b7e9d6f",
+      "DisplayName": "Bagrut2023HaChana",
+      "ColorIndex": 0
+    },
+    "4373d3b7-6d45-4fe5-9c57-882c4b694636": {
+      "ProjectGuid": "4373d3b7-6d45-4fe5-9c57-882c4b694636",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

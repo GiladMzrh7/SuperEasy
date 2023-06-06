@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="price_message">" ₪ %s"</string>
+</resources>
